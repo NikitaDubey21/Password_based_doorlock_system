@@ -1,3 +1,8 @@
+// ***********************************************************
+// Project:  Password based Door lock System
+// Author:    Nikita Dubey
+// Module description: Password based Door lock System
+// ***********************************************************
 #include<reg51.h>
 #include<string.h>
 
